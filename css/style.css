@@ -855,8 +855,9 @@ h1 {
         line-height: 18px;
         border: none;
     }
-    .main-foto__img {
-        display: block;
+    .main-foto__item-list {
+        display: flex;
+        width: 80%;
     }
     .footer-network__img{
         flex: 0 0 45px;
